@@ -1,14 +1,13 @@
 # star_rail_analysis 星穹铁道抽卡分析
 
-基于Vue3开发，完成分页读取抽卡信息，并统计出各个卡池4星/五星/已垫抽数/平均五星抽数
+基于Vue3和ElementUI开发，通过连接分页读取抽卡数据，并统计出各个卡池4星/五星/已垫抽数/平均五星抽数
 
 后续可能更新：使用图表进行数据分析，导出数据，导入本地数据，使用米哈游token获取authKey......
 
-![image](https://user-images.githubusercontent.com/52365743/236595406-602840a7-acdc-4863-8176-deb4d11bc3d7.png)
-![image](https://user-images.githubusercontent.com/52365743/236595536-4bbfa062-e453-41d5-b53c-e1e422ea7a3d.png)
-![image](https://user-images.githubusercontent.com/52365743/236595567-07734042-cef2-4780-b1b6-49f73a68a644.png)
-
-
+![image](https://user-images.githubusercontent.com/52365743/236595653-27992516-c9f6-464a-bc10-f9c8af7801e6.png)
+![image](https://user-images.githubusercontent.com/52365743/236595671-0f3b3c93-ac06-493e-8c60-0b2862e2c451.png)
+![image](https://user-images.githubusercontent.com/52365743/236595682-8270af13-9b0d-4337-aebd-74dbeb91ae29.png)
+![image](https://user-images.githubusercontent.com/52365743/236595689-36d13f71-9aa1-4a84-b000-b5e12e8630d2.png)
 
 ## Project Setup
 
